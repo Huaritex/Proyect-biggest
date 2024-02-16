@@ -1,0 +1,27 @@
+Fundamento de Software
+<Software> Es todo lo digital, algo que no se puede tocar pero si ver, es lo opuesto a hardware,
+todo programa hecho en binario
+*Formal*>El software se define como un conjunto de instrucciones, o código, que son diseñadas para ser ejecutadas por una computadora. 
+El software puede ser de dos tipos: aplicaciones (o programas de usuario) y sistemas operativos. 
+Las aplicaciones son programas diseñados para realizar tareas específicas, como navegar en internet o redactar un documento
+
+<Lenguaje de programacion>Es la lenguaje por donde nos podemos comunicar con la computadora
+*Formal*>Un lenguaje de programación es una serie de reglas y símbolos que permiten a una computadora interpretar, comprender y ejecutar instrucciones.
+Es un medio de comunicación entre un humano y una computadora que le permite describir los procedimientos necesarios para resolver un problema.
+
+<Git>Es un programa donde podemos subir nuestros proyectos u codigos a la nube y que nos permite
+modificar nuestros proyectos subidos
+*Formal*>Git es un sistema de control de versiones distribuido, que permite a los desarrolladores de software trabajar de forma colaborativa, a la vez que mantienen un registro de todas las modificaciones y versiones de su código.
+En palabras simples, Git es una herramienta que te permite guardar un registro de los cambios en tus códigos de programación, pudiendo recuperar fácilmente versiones anteriores
+
+<compilador>Es el traductor que se encarga de pasar el lenguaje de programacion a Binario para que la
+compuadora pueda entender la orden o instruccion
+*Formal*>
+
+<Ciclo de Desarrallo>Nos ayuda a saber el proceso de vida que tiene un software en 6 fases:
+-Planificacion:Es la idea para crear el software o para que motivo la creacion del software
+-Analizar:Sacar presupuesto, duracion del proyecto, estimaciones o incluso detalles.
+-Disenar: Ver cual es la herramienta mas efectiva para el proyecto
+-Codificar:Comenzar a hacer el proyecto programando con eficiencia
+-Probar: Hacer pruebas al proyecto y detectar los errores y corregirlos de manera eficiente
+-Mantenimiento: Hacer actualizaciones y optimizacion del programa
