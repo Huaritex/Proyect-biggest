@@ -1,0 +1,24 @@
+CONCEPTOS GENERALES SOBRE GIT:
+-<Git init>.-El comando git init crea un nuevo repositorio de Git. Puede utilizarse para convertir un proyecto existente y sin versión en un repositorio de Git
+, o para inicializar un nuevo repositorio vacío.
+
+-<Git config>.-El comando git config es una función útil que sirve para definir valores de configuración de Git a nivel de un proyecto global o local. Estos niveles de configuración se corresponden con archivos de texto . gitconfig .
+ Al ejecutar git config , se modificará un archivo de texto de configuración.
+
+-<Git add>.-El comando git add añade contenido del directorio de trabajo al área de ensayo (staging area o 'index') para la próxima confirmación.
+
+-<Git commit>.-captura una instantánea de los cambios preparados en ese momento del proyecto. Las instantáneas confirmadas pueden considerarse como versiones "seguras" de un proyecto: Git no las cambiará nunca a no ser que se lo pidas expresamente.
+
+-<Git push>.-se utiliza para comunicar con otro repositorio, calcular lo que tu base de datos local tiene que la remota no tiene, y luego subir (push) la diferencia al otro repositorio. Se requiere acceso de escritura al otro repositorio y por tanto normalmente se autentica de alguna manera.
+
+-<Git pull>.-se emplea para extraer y descargar contenido desde un repositorio remoto y actualizar al instante el repositorio local para reflejar ese contenido. La fusión de cambios remotos de nivel superior en tu repositorio local es una tarea habitual de los flujos de trabajo de colaboración basados en Git.
+
+-<Git branch>.- permite crear una rama nueva. Si quieres empezar a trabajar en una nueva función, puedes crear una rama nueva a partir de la rama main con git branch new_branch . Una vez creada, puedes usar git checkout new_branch para cambiar a esa rama.
+
+-<Git checkout>.- te permite desplazarte entre las ramas creadas por git branch . Al extraer una rama, se actualizan los archivos en el directorio de trabajo para reflejar la versión almacenada en esa rama y se indica a Git que registre todas las confirmaciones nuevas en dicha rama.
+
+-<Github>.-te permite subir tus repositorios de código para que sean almacenados en la nube a través del sistema de control de versiones de Git y participar también en el desarrollo de proyectos de terceros, lo que significa que cualquiera en el mundo que use GitHub puede encontrar tu código, aprender de él
+
+-<Github page>.-es un servicio de alojamiento de sitio estático que toma archivos HTML, CSS y JavaScript directamente desde un repositorio en GitHub, opcionalmente ejecuta los archivos a través de un proceso de complilación y publica un sitio web.
+
+-<wiki>.- es un sitio diseñado para que grupos de usuarios puedan crear páginas sencillas y vincularlas entre sí para capturar y compartir ideas rápidamente. Su organización puede usar un wiki para diferentes finalidades.
